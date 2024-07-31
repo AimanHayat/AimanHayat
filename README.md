@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Towards](https://github.com/Muhammad-Abdullah-Nizami/2Wards-FinalYP)
 
-- 🌱 I’m currently learning **network programming,helmetjs**
+- 🌱 I’m currently learning **javascript and react**
 
-- 👯 I’m looking to collaborate on **cyber security projects**
+- 👯 I’m looking to collaborate on **Web Development**
 
-- 🤝 I’m looking for help with **information security**
+- 🤝 I’m looking for help with **javascript and react**
 
 - 💬 Ask me about **c#, python, html, css**
 
