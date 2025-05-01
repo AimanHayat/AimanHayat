@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aimanhayat&label=Profile%20views&color=0e75b6&style=flat" alt="aimanhayat" /> </p>
 
-- 🔭 I’m currently working on [Towards](https://github.com/Muhammad-Abdullah-Nizami/2Wards-FinalYP)
-
-- 🌱 I’m currently learning **javascript and react**
+- 🌱 I’m currently learning **python and javascript**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
 - 🤝 I’m looking for help with **javascript and react**
 
-- 💬 Ask me about **c#, python, html, css**
+- 💬 Ask me about **python, html, css, javaScript**
 
 - 📫 How to reach me **syeda.aimanhayat@gmail.com**
 
